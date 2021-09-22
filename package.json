@@ -1,0 +1,21 @@
+{
+  "name": "getgitdata",
+  "version": "1.0.0",
+  "description": "Get data from Git using keyword",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avi Sahney",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.1.1",
+    "nodemon": "^2.0.12",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
